@@ -1,7 +1,5 @@
 #phonebook.py
 
-from colorama import Fore, Style, init
-
 phonebook = {'Bob': '973-555-1212'}
 
 while True:
